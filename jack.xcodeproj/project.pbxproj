@@ -424,7 +424,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "2df8cfc3-1e5a-4a60-b677-9ad372a8e1a0";
 			};
 			name = Debug;
 		};
@@ -438,7 +438,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "2df8cfc3-1e5a-4a60-b677-9ad372a8e1a0";
 			};
 			name = Release;
 		};
