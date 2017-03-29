@@ -424,6 +424,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "2df8cfc3-1e5a-4a60-b677-9ad372a8e1a0";
 			};
 			name = Debug;
 		};
@@ -437,6 +438,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "2df8cfc3-1e5a-4a60-b677-9ad372a8e1a0";
 			};
 			name = Release;
 		};
@@ -505,6 +507,7 @@
 				BA216D491E8BB35C00E6433F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA216D4A1E8BB35C00E6433F /* Build configuration list for PBXNativeTarget "jackTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +516,7 @@
 				BA216D4C1E8BB35C00E6433F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA216D4D1E8BB35C00E6433F /* Build configuration list for PBXNativeTarget "jackUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +525,7 @@
 				BA216D4F1E8BB35C00E6433F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
