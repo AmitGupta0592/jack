@@ -422,9 +422,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
 				INFOPLIST_FILE = jack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.immanent.jack;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f9327a3f-5eff-433b-86e3-11d39804f098";
+				PROVISIONING_PROFILE = "032fbd8c-b0e5-4eee-9d1d-4d959434b02e";
 			};
 			name = Debug;
 		};
@@ -436,9 +436,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
 				INFOPLIST_FILE = jack/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.offshoresolutions.movesmartclient;
+				PRODUCT_BUNDLE_IDENTIFIER = com.immanent.jack;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f9327a3f-5eff-433b-86e3-11d39804f098";
+				PROVISIONING_PROFILE = "032fbd8c-b0e5-4eee-9d1d-4d959434b02e";
 			};
 			name = Release;
 		};
